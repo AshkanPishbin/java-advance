@@ -1,0 +1,9 @@
+A palindrome is a word, phrase, or sequence that reads
+the same backwards as forwards, e.g. madam or nurses run.
+Develop the following code:
+Define the isPalindrome action that receives a word and checks
+whether it is a palindrome and returns true or false.
+Define a collection of words.
+Write a code that checks a collection of words and says the ones
+that are palindromes.
+Available actions: getWordsMixedWithPalindromes()
